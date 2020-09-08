@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8faa8bc4-51c0-4009-b504-3b2d553bdc76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/components/IT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/components/OT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/components/Survey.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/components/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/components/profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt1/static/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h1tMlKeSBvCaXHRBY1Kou9AeN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8faa8bc4-51c0-4009-b504-3b2d553bdc76" name="Default Changelist" comment="" />
+      <created>1599190380185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599190380185</updated>
+      <workItem from="1599190381302" duration="5539000" />
+      <workItem from="1599227030328" duration="2057000" />
+      <workItem from="1599282539697" duration="497000" />
+      <workItem from="1599289423183" duration="1229000" />
+      <workItem from="1599293804806" duration="1429000" />
+      <workItem from="1599322982260" duration="5000" />
+      <workItem from="1599405782643" duration="3027000" />
+      <workItem from="1599443536133" duration="15447000" />
+      <workItem from="1599487252145" duration="5817000" />
+      <workItem from="1599528998776" duration="3520000" />
+      <workItem from="1599542449335" duration="11309000" />
+      <workItem from="1599576792386" duration="130000" />
+      <workItem from="1599576986445" duration="2235000" />
+      <workItem from="1599580802586" duration="547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1599581029975">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599581029975" />
+    <state x="555" y="266" key="Github.ShareDialog" timestamp="1599580920257">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1599580920257" />
+    <state x="534" y="73" key="Github.UntrackedFilesDialog" timestamp="1599580943727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="534" y="73" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599580943727" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599468058397">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599468058397" />
+  </component>
+</project>
