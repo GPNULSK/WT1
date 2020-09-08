@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8faa8bc4-51c0-4009-b504-3b2d553bdc76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/components/IT.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/components/OT.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/components/Survey.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/components/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/components/profile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt1/static/.gitkeep" afterDir="false" />
+    <list default="true" id="8faa8bc4-51c0-4009-b504-3b2d553bdc76" name="Default Changelist" comment="这是项目看板的前端页面，目前完成了三个科室人员的项目展示，个人登录，个人添加项目，编辑项目进度功能">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +27,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -83,22 +55,34 @@
       <workItem from="1599542449335" duration="11309000" />
       <workItem from="1599576792386" duration="130000" />
       <workItem from="1599576986445" duration="2235000" />
-      <workItem from="1599580802586" duration="547000" />
+      <workItem from="1599580802586" duration="1463000" />
     </task>
+    <task id="LOCAL-00001" summary="这是项目看板的前端页面，目前完成了三个科室人员的项目展示，个人登录，个人添加项目，编辑项目进度功能">
+      <created>1599581564295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599581564295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="这是项目看板的前端页面，目前完成了三个科室人员的项目展示，个人登录，个人添加项目，编辑项目进度功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是项目看板的前端页面，目前完成了三个科室人员的项目展示，个人登录，个人添加项目，编辑项目进度功能" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1599581029975">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1599582250574">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599581029975" />
-    <state x="555" y="266" key="Github.ShareDialog" timestamp="1599580920257">
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599582250574" />
+    <state x="555" y="266" key="Github.ShareDialog" timestamp="1599582239414">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1599580920257" />
+    <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1599582239414" />
     <state x="534" y="73" key="Github.UntrackedFilesDialog" timestamp="1599580943727">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
